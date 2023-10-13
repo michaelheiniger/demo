@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [app-name, assertj, data, data-jdbc, flyway, h2, hamcrest, http-client-test, jdbc-hikari, junit, junit-params, kapt, kotlin, kotlin-application, kotlin-extension-functions, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, properties, readme, serialization-jackson, shade, slf4j-simple, testcontainers]
